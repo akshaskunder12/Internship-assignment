@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "653c90fcffe5e6c5b2ebdc4c"
+  },
+  "Name": "Aksha",
+  "Usn": "4SF21C013",
+  "Gender": "Female",
+  "Email": "akshacs21@sahyadri.edu.in",
+  "Mobile": 996406095,
+  "Password": "Aksha123",
+  "createdAt": {
+    "$date": "2023-10-28T04:41:32.649Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-28T04:41:32.649Z"
+  },
+  "__v": 0
+}]
